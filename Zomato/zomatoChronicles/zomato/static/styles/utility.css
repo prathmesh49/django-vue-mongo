@@ -1,0 +1,11 @@
+.box_4_4 {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    gap: 20px;
+}
+.menu_icon{
+    width: 200px;
+    height: 200px;
+}

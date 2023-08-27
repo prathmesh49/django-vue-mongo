@@ -1,0 +1,32 @@
+[
+    {
+        "dishID": 2,
+        "name": "magie",
+        "price": 100,
+        "available": true
+    },
+    {
+        "dishID": 3,
+        "name": "burger",
+        "price": 200,
+        "available": true
+    },
+    {
+        "dishID": 4,
+        "name": "poha",
+        "price": 50.0,
+        "available": true
+    },
+    {
+        "dishID": 5,
+        "name": "dosa",
+        "price": 200.0,
+        "available": true
+    },
+    {
+        "dishID": 6,
+        "name": "edli",
+        "price": 100.0,
+        "available": false
+    }
+]
